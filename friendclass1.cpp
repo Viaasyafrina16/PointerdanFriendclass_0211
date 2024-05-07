@@ -11,3 +11,12 @@ public :
     void setName(string pNama);
     friend class siswa;
 };
+
+class siswa
+{
+private:
+    int id;
+
+public:
+    
+}
