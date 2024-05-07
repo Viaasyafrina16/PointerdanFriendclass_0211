@@ -30,6 +30,17 @@ public :
         }
 };
 
+int main()
+{
+    persegiPanjang pp;
+    segitiga sg;
+    cout << "masukkan panjang :";
+    cin >> pp.panjang;
+    cout << "masukkan lebar :";
+    cin >> pp.lebar;
+    cout << "masukkan tinggi";
+    cin >> sg.tinggi;
+}
         
 
 
