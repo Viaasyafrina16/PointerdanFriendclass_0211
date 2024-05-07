@@ -12,6 +12,11 @@ public :
     }
 };
 
-class segitiga()
+class segitiga
 {
-    
+
+public :
+    int tinggi,
+        alas;
+
+
