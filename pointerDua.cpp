@@ -8,7 +8,11 @@ public:
 
     void showNim()
     {
-        
+        cout << "No Induk =" << nim << endl;
     }
+};
 
+int main ()
+{
+    
 }
